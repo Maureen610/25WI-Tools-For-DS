@@ -1,0 +1,11 @@
+# ignore the following files
+.ipnb checkpoint
+*.zip
+chromedriver
+.DS_Store
+*.DS_Store
+venv
+_Pycache_
+*.csv
+
+
