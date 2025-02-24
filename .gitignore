@@ -4,7 +4,7 @@
 chromedriver
 .DS_Store
 *.DS_Store
-#venv means virtual environment
+#venv stands for virtual environment
 venv 
 _Pycache_
 *.csv
