@@ -4,8 +4,8 @@
 chromedriver
 .DS_Store
 *.DS_Store
-#venv stands for virtual environment
-venv 
+#AI4PH-ENV stands for my virtual environment
+AI4PH-ENV 
 _Pycache_
 *.csv
 
