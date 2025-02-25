@@ -1,4 +1,5 @@
 # ignore the following files
+.ipnb checkpoint
 *.ipnb checkpoint
 *.zip
 chromedriver
